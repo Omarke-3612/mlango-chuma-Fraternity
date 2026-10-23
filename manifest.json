@@ -1,0 +1,11 @@
+{
+  "name": "Mlango Chuma Fraternity",
+  "short_name": "Mlango Chuma",
+  "description": "Mlango Chuma Fraternity Chama Management App",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f4",
+  "theme_color": "#0e5b46",
+  "icons": []
+}
